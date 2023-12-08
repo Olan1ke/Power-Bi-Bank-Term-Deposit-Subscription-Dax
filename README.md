@@ -51,6 +51,7 @@ Age Band = IF('bank-full'[age]<30,"Young",IF('bank-full'[age]<= 50,"Mid-Aged","O
 ![][Total_Balance_ For_Technician.png]
 
 Result
+
 ![](Total_Balance_ For_Technician_2.png)
 
    - Marital: Single and Married
