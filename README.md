@@ -48,11 +48,11 @@ Age Band = IF('bank-full'[age]<30,"Young",IF('bank-full'[age]<= 50,"Mid-Aged","O
    
    Total Balance For Technician = CALCULATE(SUM('bank-full'[balance]), FILTER('bank-full','bank-full'[job]="Technician"))
 
-![][Total_Balance_ For_Technician.png]
+![](Total_Balance_For_Technician.png)
 
 Result
 
-![](Total_Balance_ For_Technician_2.png)
+![](Total_Balance_For_Technician_2.png)
 
    - Marital: Single and Married
  
